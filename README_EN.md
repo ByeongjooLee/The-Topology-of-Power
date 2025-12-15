@@ -6,8 +6,6 @@ Is the literary "Master" born of individual genius, or is he constructed by the 
 
 This project employs **Digital Humanities methodologies** to analyze the mechanisms through which three dominant critics—**Kim Hyun** (1942–1990), **Kim Woo-chang** (b.1937), and **Yu Jong-ho** (b.1935)—established their authority in Korean literary criticism from the 1960s to the 1990s. We argue that the "Master" was constructed at the intersection of **transnational knowledge transfer** and **local institutional cartels**, where the **literary journal** functioned as the primary engine for legislating the canon.
 
-This research is based on a paper submitted to **DH2026 (Digital Humanities 2026) International Conference**.
-
 ### Core Research Questions
 - Under what structural conditions did the "Masters" of Korean literary criticism emerge?
 - How did literary journals function as institutional power in canon formation?
