@@ -60,7 +60,7 @@
 - **입법 효과 측정**: 비평가들의 독자적 정의가 표준 어휘로 자리잡는 과정 시각화
 
 ### 4. 텍스트 인코딩 및 엔티티 링킹
-- **TEI XML**: 459페이지 분량의 김우창 비평문 디지털화
+- **TEI XML**: 459페이지 분량의 김우창 비평문 디지털화 이후 전집 디지털화 진행중
 - **Wikidata/Wikipedia 연계**: 4,000+ 인물 데이터베이스 구축
 - **한국민족문화대백과사전 API** 활용
 
@@ -98,7 +98,6 @@
 - **김우창 비평문**: 9개 TEI XML 파일 (459페이지)
   - 『궁핍한시대의시인』 전문
   - 개별 에세이 25편 분석 마크다운 파일
-- **백철 신문학사조사**: 4개 HTML/XML 버전
 
 ## 주요 연구 결과
 
@@ -241,8 +240,8 @@ GitHub repository: https://github.com/ByeongjooLee/The-Topology-of-Power
 ## 연락처
 
 - **연구자**: 이병주 (Byeongjoo Lee)
-- **소속**: [소속 기관 기재]
-- **이메일**: [이메일 주소 기재]
+- **소속**: Korea airforce academy
+- **이메일**: bj3632@gmail.com
 - **GitHub**: https://github.com/ByeongjooLee/The-Topology-of-Power
 
 ---
